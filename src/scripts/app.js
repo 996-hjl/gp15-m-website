@@ -1,2 +1,2 @@
-require('./controllers/')
-require('./controllers/positions')
+// 引入路由
+import "./router/"
